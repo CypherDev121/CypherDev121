@@ -13,7 +13,7 @@ Mon terrain de prédilection : les systèmes qui restent fluides et sécurisés 
 
 **Interfaces NUI** — HUD, inventaires, menus et écrans sur mesure en HTML/CSS/JS, ou via RageUI.
 
-**Bases FiveM** — bases RP/FreeRoam complètes : ressources, configuration, base de données, installation.
+**Bases FiveM** — bases RP/PvP/FreeRoam complètes : ressources, configuration, base de données, installation.
 
 ## Projets
 
