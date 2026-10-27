@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 280" width="1280" height="280" role="img" aria-labelledby="banner-title">
+  <title id="banner-title">CypherDev121 — développeur FiveM</title>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#E3EAE5" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.88" cy="0.08" r="0.85">
+      <stop offset="0" stop-color="#1B8A4B" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#1B8A4B" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F7FAF7"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="280" fill="url(#bg)"/>
+  <rect width="1280" height="280" fill="url(#grid)" opacity="0.75"/>
+  <rect width="1280" height="280" fill="url(#glow)"/>
+  <rect x="0" y="0" width="1280" height="2" fill="#1B8A4B" opacity="0.55"/>
+  <path d="M 78 82 L 101 99 L 78 116 Z" fill="#157F45"/>
+  <text x="118" y="122" font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="64" font-weight="700" fill="#0A100C" letter-spacing="-1.5">CypherDev<tspan fill="#157F45">121</tspan></text>
+  <text x="121" y="168" font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="22" fill="#4F5F55">Développeur FiveM — Lua, NUI &amp; systèmes serveur</text>
+  <text x="121" y="220" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.6" fill="#7A8B7F">QUÉBEC, CA  ·  GITHUB.COM/CYPHERDEV121  ·  GUNS.LOL/CYPHERQC</text>
+</svg>
