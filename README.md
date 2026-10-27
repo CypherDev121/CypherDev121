@@ -40,14 +40,10 @@ Version modernisée de RageUI pour construire des menus FiveM — simple à int�
 
 ## Statistiques
 
-<p>
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=CypherDev121&amp;show_icons=true&amp;hide_title=true&amp;hide_rank=true&amp;hide_border=true&amp;hide=issues,prs&amp;bg_color=0B110D&amp;title_color=6EE7A0&amp;text_color=A6B5AA&amp;icon_color=6EE7A0&amp;include_all_commits=true&amp;count_private=true&amp;locale=fr">
-    <img src="https://github-readme-stats.vercel.app/api?username=CypherDev121&amp;show_icons=true&amp;hide_title=true&amp;hide_rank=true&amp;hide_border=true&amp;hide=issues,prs&amp;bg_color=FFFFFF&amp;title_color=157F45&amp;text_color=4F5F55&amp;icon_color=157F45&amp;include_all_commits=true&amp;count_private=true&amp;locale=fr" alt="Statistiques GitHub de CypherDev121" width="48%">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CypherDev121&amp;layout=compact&amp;hide_title=true&amp;hide_border=true&amp;langs_count=4&amp;bg_color=0B110D&amp;title_color=6EE7A0&amp;text_color=A6B5AA&amp;locale=fr">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CypherDev121&amp;layout=compact&amp;hide_title=true&amp;hide_border=true&amp;langs_count=4&amp;bg_color=FFFFFF&amp;title_color=157F45&amp;text_color=4F5F55&amp;locale=fr" alt="Langages les plus utilisés par CypherDev121" width="40%">
+    <img src="https://github-readme-stats.vercel.app/api?username=CypherDev121&amp;show_icons=true&amp;hide_title=true&amp;hide_rank=true&amp;hide_border=true&amp;hide=issues,prs&amp;bg_color=FFFFFF&amp;title_color=157F45&amp;text_color=4F5F55&amp;icon_color=157F45&amp;include_all_commits=true&amp;count_private=true&amp;locale=fr" alt="Statistiques GitHub de CypherDev121" width="420">
   </picture>
 </p>
 
